@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#  -*- coding: utf-8 -*-
 
 import os
 from math import * #导入数学运算，阶乘,开方，E值等
